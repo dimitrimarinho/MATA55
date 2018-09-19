@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Condutor
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Condutor\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ id\ cnh
+comment1.target=Condutor(java.lang.String,\ int,\ CNH)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Condutor\r\n
+comment2.params=nome\ id\ numero\ status\ categoria
+comment2.target=Condutor(java.lang.String,\ int,\ int,\ boolean,\ char)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Condutor\r\n
+comment3.params=c
+comment3.target=void\ setCategoria(char)
+comment4.params=pontos
+comment4.target=void\ addPontos(int)
+comment5.params=
+comment5.target=int\ getPontos()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CNH
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ CNH\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=numero\ status\ categoria
+comment1.target=CNH(int,\ boolean,\ char)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ \r\n
+comment2.params=newCategoria
+comment2.target=void\ setCategoria(char)
+comment2.text=\r\n\ Altera\ Categoria\r\n
+comment3.params=pontos
+comment3.target=void\ addPontos(int)
+comment3.text=\r\n\ Adiciona\ Pontos\r\n
+comment4.params=
+comment4.target=int\ getPontos()
+comment4.text=\r\n\ Verifica\ Pontos\r\n
+numComments=5
